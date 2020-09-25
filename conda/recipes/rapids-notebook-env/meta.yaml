@@ -53,6 +53,7 @@ requirements:
     - scipy {{ scipy_version }}
     - seaborn
     - umap-learn
+    - s3fs
 
 about:
   home: http://rapids.ai/
